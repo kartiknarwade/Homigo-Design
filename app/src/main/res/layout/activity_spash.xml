@@ -42,7 +42,7 @@
                 android:layout_margin="24dp"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="@string/lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor" />
+                android:text="@string/find_comfortable_and_affordable_rental_properties_with_ease_your_next_home_is_just_a_few_taps_away" />
 
             <LinearLayout
                 android:layout_width="match_parent"
